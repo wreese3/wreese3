@@ -30,3 +30,5 @@ I am currently pursuing a Bachelor of Science in Computer Science at Eastern Was
 <a href="http://www.github.com/wreese3"><img src="https://github-readme-stats.vercel.app/api?username=wreese3&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="wreese3's GitHub stats" /></a>
 
 <a href="https://github.com/wreese3" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wreese3&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<iframe src="https://giphy.com/embed/LMQo5ad3JdjCAba7Sv" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rickandmorty-season-2-adult-swim-rick-and-morty-LMQo5ad3JdjCAba7Sv">via GIPHY</a></p>
